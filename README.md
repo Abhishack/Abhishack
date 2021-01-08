@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](https://www.dlf.pt/dfpng/middlepng/612-6123125_software-developer-computer-servers-web-others-web-developer.png)
+![alt text](https://camo.githubusercontent.com/7b74c6396b4fe40895b2d3da58b95e97abbd2e15c5ef58be30e954fc1b059da8/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966)
 
 <!--
 **Abhishack/Abhishack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
