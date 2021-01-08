@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![alt text](https://www.dlf.pt/dfpng/middlepng/612-6123125_software-developer-computer-servers-web-others-web-developer.png)
+
 <!--
 **Abhishack/Abhishack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
